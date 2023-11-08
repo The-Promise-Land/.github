@@ -1,6 +1,6 @@
 ## Welcome to THE PROMISE LAND
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=TPL%20SVG%20🕊️&text2=🧑🏾‍💻%20Open%20Source&width=800&height=400)]
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=TPL%20SVG%20🕊️&text2=🧑🏾‍💻%20Open%20Source&width=800&height=400)
 
 
 ### Socials
