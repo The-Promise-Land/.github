@@ -10,7 +10,7 @@
  
  ### Platforms
 - itch.io:  https://gxufy.itch.io
-- IGDB:  https://www.igdb.com/companies/thepromiseland
+- IGDB:  https://www.igdb.com/companies/the-promise-land
 
 ### Website
 - https://gxufy.github.io
